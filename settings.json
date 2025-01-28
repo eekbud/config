@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "telemetry.telemetryLevel": "off",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.newWindowProfile": "Default",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "editor.fontSize": 14,
+    "editor.renderWhitespace": "all",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingComments": "never",
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": true,
+    "workbench.colorCustomizations": {
+        "editor.selectionHighlightBackground": "#c1b0ae",
+    },
+    "windsurf.autocompleteSpeed": "fast",
+    "explorer.compactFolders": false,
+    "hediet.vscode-drawio.resizeImages": null,
+    "git.defaultCloneDirectory": "/Users/drew/Work",
+    "remote.windsurfSSH.configFile": "/Users/drew/.ssh",
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.ignoreRecommendations": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+}
